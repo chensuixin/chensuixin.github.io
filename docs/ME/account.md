@@ -2,7 +2,7 @@
 
 - [GitHub](https://github.com/Yang-Xijie)
     - 开源代码仓库
-- [个人网站](https://yang-xijie.github.io)
+- [个人网站](https://chensuixin.github.io)
     - 博客、文章
 - [Bilibili](https://space.bilibili.com/24502827)
     - 视频教程、VLOG

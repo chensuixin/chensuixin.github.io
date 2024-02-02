@@ -393,8 +393,8 @@ edit_uri: edit/main/docs/
 # [top-right corner]
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
-repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io
-repo_name: yang-xijie.github.io
+repo_url: https://github.com/Yang-Xijie/chensuixin.github.io
+repo_name: chensuixin.github.io
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
@@ -414,16 +414,16 @@ extra:
       link: https://space.bilibili.com/24502827
     - name: 小杰答疑群 QQ 796233390
       icon: fontawesome/brands/qq
-      link: https://yang-xijie.github.io/ME/qq-groups/
+      link: https://chensuixin.github.io/ME/qq-groups/
     - name: 小杰水群 QQ 824114857
       icon: fontawesome/brands/qq
-      link: https://yang-xijie.github.io/ME/qq-groups/
+      link: https://chensuixin.github.io/ME/qq-groups/
     - name: 小红书 | 杨希杰
       icon: fontawesome/solid/images
       link: https://www.xiaohongshu.com/user/profile/61be0cc10000000021024369
     - name: 打赏支持
       icon: fontawesome/solid/mug-saucer
-      link: https://yang-xijie.github.io/ME/support/
+      link: https://chensuixin.github.io/ME/support/
 
 # [Extensions]
 plugins:

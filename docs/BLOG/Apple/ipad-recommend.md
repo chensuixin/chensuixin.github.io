@@ -1,6 +1,6 @@
 # 小杰的 iPad 购买建议
 
-> 本文链接: <https://yang-xijie.github.io/BLOG/Apple/ipad-recommend/>
+> 本文链接: <https://chensuixin.github.io/BLOG/Apple/ipad-recommend/>
 >
 > 作者：[Bilibili | 杨希杰619](https://space.bilibili.com/24502827) [GitHub | Yang-Xijie](https://github.com/Yang-Xijie)
 > 

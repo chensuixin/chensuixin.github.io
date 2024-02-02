@@ -126,7 +126,7 @@
 ### 移动应用开发
 
 - `2022.4` 清华软件学院移动应用软件开发课程  软件开发经验分享
-    - [讲稿](https://yang-xijie.github.io/LECTURE/App/app-design/)
+    - [讲稿](https://chensuixin.github.io/LECTURE/App/app-design/)
     - [录屏](https://www.bilibili.com/video/BV1PY41177xw)
 - `2022.11 - 2023.6` 清华软件学院移动应用软件开发课程  助教
     - 负责准备 Flutter 部分的讲稿，并实际讲授其中的部分课程
